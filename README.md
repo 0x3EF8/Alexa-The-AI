@@ -1,15 +1,10 @@
-# Alexa-The-AI
-#### Programmers can get anything for free, even Alexa. Building your own (hot) personal assistant how cool that is! 😁 You just need 20 lines of Python code. 😎
-
-# Levi
-
-https://web.facebook.com/HideMy4ss/
-
+# Alexa The AI
 ## Build an Artificial Assistant
+
 
 ## Installation
 ### For windows users
-run those in command prompt/cmt/terminal)
+(run those in command prompt/cmt/terminal)
 For the robot to listen to our voice/speech
 `pip install speechRecognition`
 
